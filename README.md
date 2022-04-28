@@ -1,4 +1,4 @@
 # demo-project
 Proyecto para la clase de Git del bootcamp de Introducción a la Programación.
 
-Cristina Rueda
+1. Cristina Rueda
