@@ -1,4 +1,5 @@
 # demo-project
+
 Proyecto para la clase de Git del bootcamp de Introducción a la Programación.
 
 
@@ -7,4 +8,5 @@ Proyecto para la clase de Git del bootcamp de Introducción a la Programación.
 3. Jacobo es contribuidor
 4. Javier Eufracio
 5. Mary Fernández - Gracias Cristina por enseñarme Git💜 excelentes clases! -
+
 
